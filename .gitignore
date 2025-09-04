@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual env
+.env/
+.venv/
+pysparkenv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark / Hadoop
+derby.log
+.metastore_db/
+spark-warehouse/
+*.crc
+
+# Data
+data/
+bronze/
+silver/
+gold/
+models/
+app.db
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
