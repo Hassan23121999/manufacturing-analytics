@@ -1,7 +1,7 @@
 # ⚙️ Manufacturing Analytics with PySpark
 
 This project demonstrates a **high-level ETL + ML pipeline** for manufacturing data (parts, production events, quality checks, maintenance logs).  
-It is designed as a **prototype for industrial analytics** and as an **interview-ready demo** of PySpark, FastAPI, and Streamlit.
+It is designed as a **prototype for industrial analytics** and as an **demo** of PySpark, FastAPI, and Streamlit.
 
 ---
 
